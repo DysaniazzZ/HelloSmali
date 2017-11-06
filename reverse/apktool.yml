@@ -1,0 +1,13 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: app-debug.apk
+compressionType: false
+doNotCompress:
+- arsc
+isFrameworkApk: false
+packageInfo: null
+sdkInfo: null
+sharedLibrary: false
+unknownFiles: {}
+usesFramework: null
+version: 2.3.0
+versionInfo: null
