@@ -87,7 +87,7 @@
 
     move-result v0
 
-    if-nez v0, :cond_0      # 如果结果不为 0，就跳转到 cond_0 标号处
+    if-eqz v0, :cond_0      # 如果结果不为 0，就跳转到 cond_0 标号处
 
     .line 32
     iget-object v0, p0, Lcom/dysania/hellosmali/MainActivity$1;->this$0:Lcom/dysania/hellosmali/MainActivity;
